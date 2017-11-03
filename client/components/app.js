@@ -89,8 +89,8 @@ class App extends React.Component {
         self = this;
         return (
             <div className="container">
-                <div className="container text-center">
-                    <img src="together.jpg" width="160" height="160"/>
+                <div className="container text-center" style={{paddingTop: "15px"}}>
+                    <img src="together.jpg" height="160" />
                 </div>
                 <div className="container">
                     <div>
